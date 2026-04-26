@@ -5,7 +5,7 @@ export const projects = [
     tech: ["React", "Node.js", "PostgreSQL", "TensorFlow", "OpenCV"],
     github: "https://github.com/yourusername/civicfix",
     demo: "https://civicfix-demo.com",
-    logo: "/CivicFix.png", // Add logo path
+    logo: "./CivicFix.png", // Add logo path
     logoBg: "from-blue-500 to-cyan-500" // Gradient background fallback
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     tech: ["React Native (Expo)", "TypeScript", "SQLite", "AI (Gemini)", "POS Workflow"],
     github: "https://github.com/adityaaman-2120/InVo",
     demo: "https://adityaaman-2120.github.io/InVo/",
-    logo: "/InVo.jpeg", // Add logo path
+    logo: "./InVo.jpeg", // Add logo path
     logoBg: "from-purple-500 to-pink-500"
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
     tech: ["Python", "Flask", "React", "Scikit-learn", "Docker"],
     github: "https://github.com/yourusername/mediassist",
     demo: "https://mediassist-demo.com",
-    logo: "/UnityCure.png", // Add logo path
+    logo: "./UnityCure.png", // Add logo path
     logoBg: "from-green-500 to-teal-500"
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     tech: ["Python", "Tkinter", "Pandas", "NumPy", "Matplotlib", "ReportLab", "CSV/Excel Handling"],
     github: "https://github.com/adityaaman-2120/student_result_management_system.git",
     demo: "https://adityaaman-2120.github.io/student_result_management_system/",
-    logo: "/SRMS.png", // Add logo path
+    logo: "./SRMS.png", // Add logo path
     logoBg: "from-orange-500 to-yellow-500"
   },
 ];
