@@ -32,7 +32,7 @@ const Footer = () => {
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 flex items-center justify-center overflow-hidden">
                <img 
-                 src="/Screenshot 2025-12-27 161732.png" 
+                 src="./Screenshot 2025-12-27 161732.png" 
                  alt="Profile" 
                  className="w-full h-full object-cover"
                />

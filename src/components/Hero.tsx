@@ -71,7 +71,7 @@ const Hero = () => {
               {/* Profile image */}
               <div className="w-32 h-32 rounded-full overflow-hidden border-2 border-white/30 shadow-lg">
                 <img 
-                  src="/image_6782e25c-Photoroom.png" 
+                  src="./image_6782e25c-Photoroom.png" 
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
@@ -126,8 +126,8 @@ const Hero = () => {
               </a>
               {/* UPDATED RESUME BUTTON */}
               <a 
-                href="/Aditya_Aman_Resume_v2.pdf" 
-                download="Aditya_Aman_Resume.pdf"
+                href="./Aditya_Aman_Resume_v2.pdf" 
+                download="Resume_Aditya_Aman_AIML.pdf"
                 className="group btn-secondary border-2 border-gray-700 hover:border-white inline-flex items-center justify-center gap-3 px-8 py-4 text-lg"
               >
                 <Download size={20} />
@@ -191,7 +191,7 @@ const Hero = () => {
                 <div className="text-center">
                   <div className="w-30 h-30 mb-4 mx-auto rounded-full overflow-hidden">
                     <img 
-                      src="/Screenshot 2025-12-27 161732.png" 
+                      src="./Screenshot 2025-12-27 161732.png" 
                       alt="Profile" 
                       className="w-full h-full object-cover"
                     />

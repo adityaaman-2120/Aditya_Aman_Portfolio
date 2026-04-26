@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://adityaaman-2120.github.io/Aditya_Aman_Portfolio",
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
