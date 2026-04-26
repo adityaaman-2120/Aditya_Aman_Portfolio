@@ -232,7 +232,7 @@ const Contact = () => {
                 </a>
                 <a 
                   href="./Aditya_Aman_Resume_v2.pdf" 
-                  download="Aditya_Aman_Resume.pdf"
+                  download="Resume_Aditya_Aman_AIML.pdf"
                   className="p-4 text-center rounded-lg border hover:border-blue-500 hover:text-blue-600 transition-colors"
                 >
                   Resume

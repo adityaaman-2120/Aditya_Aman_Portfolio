@@ -127,7 +127,7 @@ const Hero = () => {
               {/* UPDATED RESUME BUTTON */}
               <a 
                 href="./Aditya_Aman_Resume_v2.pdf" 
-                download="Aditya_Aman_Resume.pdf"
+                download="Resume_Aditya_Aman_AIML.pdf"
                 className="group btn-secondary border-2 border-gray-700 hover:border-white inline-flex items-center justify-center gap-3 px-8 py-4 text-lg"
               >
                 <Download size={20} />
