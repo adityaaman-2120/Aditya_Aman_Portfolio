@@ -71,7 +71,7 @@ const Hero = () => {
               {/* Profile image */}
               <div className="w-32 h-32 rounded-full overflow-hidden border-2 border-white/30 shadow-lg">
                 <img 
-                  src="/image_6782e25c-Photoroom.png" 
+                  src="./image_6782e25c-Photoroom.png" 
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
@@ -191,7 +191,7 @@ const Hero = () => {
                 <div className="text-center">
                   <div className="w-30 h-30 mb-4 mx-auto rounded-full overflow-hidden">
                     <img 
-                      src="/Screenshot 2025-12-27 161732.png" 
+                      src="./Screenshot 2025-12-27 161732.png" 
                       alt="Profile" 
                       className="w-full h-full object-cover"
                     />
