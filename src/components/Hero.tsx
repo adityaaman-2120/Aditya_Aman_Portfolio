@@ -126,7 +126,7 @@ const Hero = () => {
               </a>
               {/* UPDATED RESUME BUTTON */}
               <a 
-                href="/Resume_Aditya.pdf" 
+                href="/Aditya_Aman_Resume.pdf" 
                 download="Aditya_Aman_Resume.pdf"
                 className="group btn-secondary border-2 border-gray-700 hover:border-white inline-flex items-center justify-center gap-3 px-8 py-4 text-lg"
               >
